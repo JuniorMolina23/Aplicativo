@@ -1,0 +1,15 @@
+.fant {
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: bold;
+    font-weight: 70%;
+}
+.carta {
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.imagen {
+    margin-top: 30px;
+    margin-left: 600px;
+    width: 150px;
+}
